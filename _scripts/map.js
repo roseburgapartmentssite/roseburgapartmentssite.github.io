@@ -31,50 +31,50 @@ $(document).ready(initializeMap);
 
 function initMarkers() {
     initIcons();
-    GDownloadUrl("_scripts/locations.txt", handleData);
+    GDownloadUrl("https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_scripts/locations.txt", handleData);
 }
 
 function initIcons() {
     var ico = new GIcon();
-    ico.image = "./_images/house.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/house.png";
     ico.iconSize = new GSize(32, 32);
     ico.iconAnchor = new GPoint(16, 16);
-    ico.shadow = "./_images/house-shadow.png"
+    ico.shadow = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/house-shadow.png"
     ico.shadowSize = new GSize(59, 32);
     iconDefs["home"] = ico;
 
     ico = new GIcon();
-    ico.image = "./_images/medical.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/medical.png";
     ico.iconSize = new GSize(24, 24);
     ico.iconAnchor = new GPoint(16, 16);
     iconDefs["hospital"] = ico;
 
     ico = new GIcon();
-    ico.image = "./_images/school.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/school.png";
     ico.iconSize = new GSize(33, 33);
     ico.iconAnchor = new GPoint(16, 16);
     iconDefs["school"] = ico;
 
     ico = new GIcon();
-    ico.image = "./_images/bible.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/bible.png";
     ico.iconSize = new GSize(24, 24);
     ico.iconAnchor = new GPoint(16, 16);
     iconDefs["church"] = ico;
 
     ico = new GIcon();
-    ico.image = "./_images/stamp.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/stamp.png";
     ico.iconSize = new GSize(32, 32);
     ico.iconAnchor = new GPoint(16, 16);
     iconDefs["postoffice"] = ico;
 
     ico = new GIcon();
-    ico.image = "./_images/bank.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/bank.png";
     ico.iconSize = new GSize(20, 20);
     ico.iconAnchor = new GPoint(16, 16);
     iconDefs["bank"] = ico;
 
     ico = new GIcon();
-    ico.image = "./_images/shopping.png";
+    ico.image = "https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/shopping.png";
     ico.iconSize = new GSize(25, 25);
     ico.iconAnchor = new GPoint(16, 16);
     iconDefs["shopping"] = ico;

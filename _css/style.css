@@ -1,7 +1,7 @@
 ﻿.jqzoom{}
 
 /* Tag Styles */
-html,body{background-image:url(../_images/bgfade-gc.jpg);background-repeat:repeat-x;background-color:#213760;margin:0;padding:0;font-family:Verdana,Arial,sans serif;font-size:12px;}
+html,body{background-image:url(https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/bgfade-gc.jpg);background-repeat:repeat-x;background-color:#213760;margin:0;padding:0;font-family:Verdana,Arial,sans serif;font-size:12px;}
 h1{font-size:12pt;margin:0;}
 h2{font-size:12pt;margin:10px 5px 10px 8px;}
 hr{height:4px;clear:both;width:90%;}
@@ -16,24 +16,24 @@ div.desc span.propDesc{padding-left:15px;}
 div#outer_container{background:transparent;width:804px;margin:auto;border:solid 1px black;}
 div#container{background:#94bfff;width:800px;margin:auto;border:solid 1px black;}
 /* Header */
-div#header{background:url('../_images/header.jpg');margin:0px;height:150px;}
+div#header{background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/header.jpg');margin:0px;height:150px;}
 div#header ul{margin:15px 0 0 0;list-style-type:none;text-align:right;}
 div#header li{display:inline;margin-right:15px;}
 /* Menu */
 div#menu{height:27px;}
 div#menu span{display:none;	}
 div#menu a{display:block;float:left;height:27px;}
-div#menu .menu_break{background:url('../_images/menu-break.jpg');display:block;width:31px;height:27px;float:left;}
-#Home{width:69px;background:url('../_images/menu-home.jpg');}
-#Home-selected, #Home:hover{width:69px;background:url('../_images/menu-home-active.jpg');}
-#WWHill{width:186px;background:url('../_images/menu-warewoodonthehill.jpg');}
-#WWHill-selected, #WWHill:hover{width:186px;background:url('../_images/menu-warewoodonthehill-active.jpg');}
-#WWVil{width:155px;background:url('../_images/menu-warewoodvillage.jpg');}
-#WWVil-selected, #WWVil:hover{width:155px;background:url('../_images/menu-warewoodvillage-active.jpg');}
-#WWDup{width:155px;background:url('../_images/menu-warewoodduplex.jpg');}
-#WWDup-selected, #WWDup:hover{width:155px;background:url('../_images/menu-warewoodduplex-active.jpg');}
-#Contact{width:111px;background:url('../_images/menu-contactus.jpg');}
-#Contact-selected, #Contact:hover{width:111px;background:url('../_images/menu-contactus-active.jpg');}
+div#menu .menu_break{background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-break.jpg');display:block;width:31px;height:27px;float:left;}
+#Home{width:69px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-home.jpg');}
+#Home-selected, #Home:hover{width:69px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-home-active.jpg');}
+#WWHill{width:186px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-warewoodonthehill.jpg');}
+#WWHill-selected, #WWHill:hover{width:186px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-warewoodonthehill-active.jpg');}
+#WWVil{width:155px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-warewoodvillage.jpg');}
+#WWVil-selected, #WWVil:hover{width:155px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-warewoodvillage-active.jpg');}
+#WWDup{width:155px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-warewoodduplex.jpg');}
+#WWDup-selected, #WWDup:hover{width:155px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-warewoodduplex-active.jpg');}
+#Contact{width:111px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-contactus.jpg');}
+#Contact-selected, #Contact:hover{width:111px;background:url('https://raw.githubusercontent.com/roseburgapartmentssite/roseburgapartmentssite.github.io/main/_images/menu-contactus-active.jpg');}
 /* Main Warewood Picture */
 div#mainPic{float:left;margin:5px 5px 15px 5px;width:400px;height:300px;display:block;}
 /* Address Block */

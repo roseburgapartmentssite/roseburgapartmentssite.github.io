@@ -1,0 +1,67 @@
+﻿.jqzoom{}
+
+/* Tag Styles */
+html,body{background-image:url(../_images/bgfade-gc.jpg);background-repeat:repeat-x;background-color:#213760;margin:0;padding:0;font-family:Verdana,Arial,sans serif;font-size:12px;}
+h1{font-size:12pt;margin:0;}
+h2{font-size:12pt;margin:10px 5px 10px 8px;}
+hr{height:4px;clear:both;width:90%;}
+/* Classes */
+div.desc{display:block;padding-bottom:10px;}
+div.desc span{display:block;padding:0 7px 0 7px;}
+div.desc img{padding:5px 7px 5px 7px;border:0;}
+div.desc span.propDesc{padding-left:15px;}
+.footnote{display:block;font-family:Verdana,Arial,sans serif;font-size:9px;}
+.preload{display:none;}
+/* Container Object Styles*/
+div#outer_container{background:transparent;width:804px;margin:auto;border:solid 1px black;}
+div#container{background:#94bfff;width:800px;margin:auto;border:solid 1px black;}
+/* Header */
+div#header{background:url('../_images/header.jpg');margin:0px;height:150px;}
+div#header ul{margin:15px 0 0 0;list-style-type:none;text-align:right;}
+div#header li{display:inline;margin-right:15px;}
+/* Menu */
+div#menu{height:27px;}
+div#menu span{display:none;	}
+div#menu a{display:block;float:left;height:27px;}
+div#menu .menu_break{background:url('../_images/menu-break.jpg');display:block;width:31px;height:27px;float:left;}
+#Home{width:69px;background:url('../_images/menu-home.jpg');}
+#Home-selected, #Home:hover{width:69px;background:url('../_images/menu-home-active.jpg');}
+#WWHill{width:186px;background:url('../_images/menu-warewoodonthehill.jpg');}
+#WWHill-selected, #WWHill:hover{width:186px;background:url('../_images/menu-warewoodonthehill-active.jpg');}
+#WWVil{width:155px;background:url('../_images/menu-warewoodvillage.jpg');}
+#WWVil-selected, #WWVil:hover{width:155px;background:url('../_images/menu-warewoodvillage-active.jpg');}
+#WWDup{width:155px;background:url('../_images/menu-warewoodduplex.jpg');}
+#WWDup-selected, #WWDup:hover{width:155px;background:url('../_images/menu-warewoodduplex-active.jpg');}
+#Contact{width:111px;background:url('../_images/menu-contactus.jpg');}
+#Contact-selected, #Contact:hover{width:111px;background:url('../_images/menu-contactus-active.jpg');}
+/* Main Warewood Picture */
+div#mainPic{float:left;margin:5px 5px 15px 5px;width:400px;height:300px;display:block;}
+/* Address Block */
+div#address{background-color:#80B0FF;float:right;margin:15px;padding:10px 20px 10px 20px;border:solid 1px #000000;}
+div#address span{display:block;line-height:1.6em;}
+/* Pictures Block */
+div.pics{clear:both;display:block;width:100%;padding-bottom:10px;}
+div.pics table{padding-left:8px;}
+/* All Other Blocks */
+div.features{clear:both;display:block;width:100%;padding-bottom:20px;}
+div.features span{margin-left:20px;}
+div.features ul.two_col li{float:left;width:350px;padding-bottom:7px;}
+div.features div.col{margin-left:20px;float:left;display:inline;width:350px;}
+/* All Other Blocks */
+div.floorplans{clear:both;display:block;width:100%;}
+div.floorplans div{padding:0px 0px 10px 10px;}
+div.floorplans span{line-height:1.7em;}
+/* Map Block */
+div.mapSection{width:100%;padding-bottom:10px;min-height:400px;}
+div.mapSection td{vertical-align:top;}
+table.filters tr td{padding-right:20px;}
+div.mapSection div#map{display:block;margin:5px;width:500px;height:400px;}
+div.iw{height:7em;width:30em;}
+input#txtFrom,input#txtTo{width:170pt;}
+span.iwAddressTitle{display:block;font-weight:bold;height:1.6em;}
+span.iwAddressName{display:block;font-weight:bold;}
+span.iwAddressLines{display:block;}
+/* Footer Block */
+div.footer{clear:both;width:100%;padding:5px 0 5px 0;}
+div.footer span{display:block;color:gray;font-size:9px;line-height:1.3;text-align:center;}
+div.footer a{color:gray;font-size:9px;line-height:1.3;text-align:center;}

@@ -1,0 +1,4 @@
+Sitemap: http://roseburgapartments.com/sitemap.xml
+
+User-agent: *
+Disallow: /application.pdf

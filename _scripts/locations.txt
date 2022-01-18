@@ -1,0 +1,20 @@
+﻿hospital|43.239863|-123.367021|Mercy Medical Center|2700 NW Stewart Pkwy*Roseburg, OR 97471
+hospital|43.22821|-123.365819|US Veterans Medical Center|913 NW Garden Valley Blvd*Roseburg, OR 97471
+school|43.213451|-123.353285|Roseburg High School|400 W Harvard Ave*Roseburg, OR 97470
+school|43.236381|-123.34721|Joseph Lane Middle School|2153 NE Vine St*Roseburg, OR 97470
+school|43.231188|-123.380365|Hucrest Elementary School|1810 NW Kline St*Roseburg, OR 97471
+postoffice|43.208832|-123.342157|US Post Office|519 SE Kane St*Roseburg, OR 97470
+church|43.234483|-123.379276|Wellspring Bible Fellowship|2245 NW Kline St*Roseburg, OR 97470
+church|43.233041|-123.372989|Church of Christ|1475 NW Garden Valley Blvd*Roseburg, OR 97471
+church|43.23606|-123.389246|Roseburg Alliance Church|2165 Garden Valley Rd*Roseburg, OR 97471
+church|43.230749|-123.388639|Hucrest Community Church of God|2075 NW Witherspoon Ave*Roseburg, OR 97471
+church|43.232199|-123.376733|First Conservative Baptist Church|1540 NW Valley VW Ave*Roseburg, OR 97471
+church|43.227766|-123.38316|Church of Jesus Christ of LDS|1864 NW Calkins Ave*Roseburg, OR 97471
+bank|43.235165|-123.380719|Umpqua Bank|1790 NW Garden Valley Blvd*Roseburg, OR 97471
+bank|43.234274|-123.379442|Wells Fargo Bank|1701 NW Garden Valley Blvd*Roseburg, OR 97470
+bank|43.228597|-123.36381|Bank of America|780 NW Garden Valley Blvd #61*Roseburg, OR 97471
+bank|43.233479|-123.372444|US Bank|2080 NW Stewart Pkwy*Roseburg, OR 97471
+bank|43.230248|-123.370856|Washington Mutual|929 NW Garden Valley Blvd*Roseburg, OR 97471
+shopping|43.233654|-123.375094|Roseburg Valley Mall|1552 NW Garden Valley Blvd*Roseburg, OR 97471
+shopping|43.228847|-123.368064|Fred Meyer|929 NW Garden Valley Blvd*Roseburg, OR 97471
+shopping|43.234538|-123.372163|Walmart|2125 NW Stewart Pkwy*Roseburg, OR 97471

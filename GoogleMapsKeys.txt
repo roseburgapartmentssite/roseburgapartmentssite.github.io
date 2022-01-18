@@ -1,0 +1,5 @@
+Google Maps API URLs:  http://speedpour.brinkster.net/
+Google Maps API Key:   ABQIAAAA08xZc6_aW3d5F7iBS5g6ihTybwUpqZyOLM_uguNB5bNPaQ97kxTcf8iiNhf_1F3GvBN480rTEQi4YA
+
+Google Maps API URLs:  http://www.roseburgapartments.com/
+Google Maps API Key:   ABQIAAAA08xZc6_aW3d5F7iBS5g6ihRNsfldYc7RTsEjIrl1Ap6XZRVWjBRzAeNOD2SA4LRXRh9Uynn0bv3JtQ
